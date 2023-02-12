@@ -9,4 +9,5 @@ footer {
   max-width: 100%;
   display: block;
   margin: 30px auto;
+  border-radius: 15px;
 }
